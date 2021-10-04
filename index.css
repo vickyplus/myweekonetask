@@ -1,0 +1,53 @@
+.top-parent{
+    display: flex;
+    justify-content: center;
+}
+.second-parent{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    text-align: center;
+}
+.second-header{
+    text-align: center;
+    padding: 30px 30px;
+}
+.carrosel{
+    display: flex;
+    height: 60%;
+}
+.image4s{
+   width: 150px;
+   padding: 5px;
+   border-radius: 15px;
+}
+.third-parent{
+    justify-content: center;
+    text-align: center;
+
+}
+.bottom-parent{
+    background-image: url(/images/image-footer.jpg);
+    height: 150px;
+}
+
+.footer_container{
+    background-color: rgb(77, 150, 168);
+    height: 150px;
+    opacity: 80%;
+    display: flex;
+}
+.footer_container{
+font-display: flex;
+justify-content: space-around;
+text-align: center; 
+align-items: center; 
+}
+.footer-button{
+    background-color: rgb(123, 95, 177);
+    color: white;
+    padding: 8px;
+    border: 0px;
+    border-radius: 20px
+}
