@@ -17,6 +17,13 @@
     /* padding: 0px 20px; */
     margin: 0px 60px;
 }
+.group-chat button{
+    background-color: red;
+    border: none;
+    /* width: 100px; */
+    padding: 10px 20px;
+    border-radius: 30%;
+}
 .carrosel{
     display: flex;
     height: 160%;
