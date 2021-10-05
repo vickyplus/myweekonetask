@@ -13,9 +13,13 @@
     text-align: center;
     padding: 30px 30px;
 }
+.group-chat{
+    /* padding: 0px 20px; */
+    margin: 0px 60px;
+}
 .carrosel{
     display: flex;
-    height: 60%;
+    height: 160%;
 }
 .image4s{
    width: 150px;
